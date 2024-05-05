@@ -1,4 +1,4 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/07/93/01/18/1000_F_793011812_03OAAbU0dLqdAKiebq3q7N8LZH3FsR6o.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/07/93/01/18/1000_F_793011812_03OAAbU0dLqdAKiebq3q7N8LZH3FsR6o.jpg)
 <h1 align="center">Hi 👋, I'm Nsk</h1>
 <h3 align="center">Welcome to my GitHub repository! 
   I'm a passionate Cyber Security Analyst from India with expertise in incident response, threat analysis, and security operations</h3>
